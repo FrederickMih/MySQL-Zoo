@@ -26,10 +26,8 @@ where name = 'France' or name = 'Germany' or name = 'Italy'
 select name from world where name LIKE '%United%'
 
 -- 7. Two ways to be big
-select name, population, area 
-from world
-where area > 3000000 or population > 250000000
-
+SELECT name, population, area FROM world WHERE
+area > 3000000 OR population > 250000000
 -- 8. One or the other (but not both)
 select name, population, area
 from world
