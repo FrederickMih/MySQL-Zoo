@@ -1,0 +1,1 @@
+Used this link (https://sqlzoo.net/wiki/The_JOIN_operation) to access questions for the following answers:
