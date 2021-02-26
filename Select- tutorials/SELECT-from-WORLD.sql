@@ -1,5 +1,5 @@
 
-Used this link (https://sqlzoo.net/wiki/SELECT_from_WORLD_Tutorial) to access questions for the following answers:
+Used this link (https://sqlzoo.net/wiki/SELECT_from_Nobel_Tutorial#nobel_Nobel_Laureates) to access questions for the following answers:
  
 -- 1. Introduction
 SELECT name, continent, population FROM world
